@@ -1,5 +1,5 @@
 # Arquivos temporários do Power BI
-*.pbix~
+*.pbix
 *.tmp
 
 # Dados simulados em CSV
