@@ -1,0 +1,19 @@
+# Arquivos temporários do Power BI
+*.pbix~
+*.tmp
+
+# Dados simulados em CSV
+dados_excel/
+
+# Arquivos de ambiente e senhas (se houver)
+.env
+
+# Logs e arquivos de rastreamento
+*.log
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos ocultos do sistema
+.DS_Store
+Thumbs.db
