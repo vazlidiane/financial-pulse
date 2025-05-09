@@ -111,5 +111,7 @@ Publicação e versionamento no GitHub
 ## 🤝 Conecte-se comigo
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lidiane-vaz)  
+
 📬 [lidiane.vaz.ti@gmail.com](mailto:lidiane.vaz.ti@gmail.com) 
+
 🐙 [GitHub](https://github.com/vazlidiane)
