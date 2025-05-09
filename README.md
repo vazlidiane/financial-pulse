@@ -63,7 +63,7 @@ Inadimplência = [Total Esperado] - [Faturamento]
 
 ---
 
-🖼️ Layout do Dashboard
+## 🖼️ Layout do Dashboard
 
 
 KPIs no topo com ícones (faturamento, ticket médio, inadimplência)
@@ -78,7 +78,7 @@ Filtros por data, cidade e categoria
 
 ---
 
-📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas
 
 financial-pulse/
 ├── dados_excel/
@@ -95,7 +95,7 @@ financial-pulse/
 
 ---
 
-📘 Aprendizados
+## 📘 Aprendizados
 Criação e manipulação de dados realistas
 
 Automatização de ETL com Python
@@ -108,7 +108,7 @@ Publicação e versionamento no GitHub
 
 ---
 
-🤝 Conecte-se comigo
+## 🤝 Conecte-se comigo
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lidiane-vaz)  
 📬 [lidiane.vaz.ti@gmail.com](mailto:lidiane.vaz.ti@gmail.com) 
