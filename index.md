@@ -3,7 +3,7 @@ layout: default
 title: Financial Pulse – Análise Financeira Inteligente
 ---
 
-# 📊 Financial Pulse
+# Financial Pulse
 
 Projeto completo de análise de dados para portfólio, integrando **Python, PostgreSQL, Power BI e GitHub**.
 
