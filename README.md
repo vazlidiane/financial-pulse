@@ -1,4 +1,5 @@
-# 📊 Financial Pulse – Análise Financeira Inteligente com Python, PostgreSQL e Power BI
+## Financial Pulse – Análise Financeira Inteligente 
+# com Python, PostgreSQL e Power BI
 
 Este projeto apresenta um dashboard completo e interativo desenvolvido para simular a gestão financeira de uma empresa, utilizando uma stack poderosa de **Excel + Python + PostgreSQL + Power BI + GitHub**.  
 O objetivo é demonstrar domínio no processo de análise de dados de ponta a ponta, da simulação à visualização.
