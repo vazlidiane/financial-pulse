@@ -59,6 +59,7 @@ Faturamento YTD = TOTALYTD([Faturamento], Calendario[Date])
 Total Esperado = SUMX(vendas, RELATED(produtos[preco_unitario]) * vendas[quantidade])
 Inadimplência = [Total Esperado] - [Faturamento]
 % Inadimplência = DIVIDE([Inadimplência], [Total Esperado], 0)
+```
 
 ---
 
