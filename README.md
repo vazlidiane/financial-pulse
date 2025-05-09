@@ -60,6 +60,7 @@ Total Esperado = SUMX(vendas, RELATED(produtos[preco_unitario]) * vendas[quantid
 Inadimplência = [Total Esperado] - [Faturamento]
 % Inadimplência = DIVIDE([Inadimplência], [Total Esperado], 0)
 
+---
 
 🖼️ Layout do Dashboard
 
@@ -74,6 +75,7 @@ Pizza com distribuição de despesas
 
 Filtros por data, cidade e categoria
 
+---
 
 📁 Estrutura de Pastas
 
@@ -90,6 +92,7 @@ financial-pulse/
 │   └── preview_dashboard.png
 ├── README.md
 
+---
 
 📘 Aprendizados
 Criação e manipulação de dados realistas
@@ -102,6 +105,7 @@ Criação de dashboard profissional no Power BI
 
 Publicação e versionamento no GitHub
 
+---
 
 🤝 Conecte-se comigo
 
